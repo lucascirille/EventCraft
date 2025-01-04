@@ -1,0 +1,14 @@
+/home/dneit/devWeb/backendEventCraft/DataBase/bin/Debug/net8.0/DataBase.deps.json
+/home/dneit/devWeb/backendEventCraft/DataBase/bin/Debug/net8.0/DataBase.runtimeconfig.json
+/home/dneit/devWeb/backendEventCraft/DataBase/bin/Debug/net8.0/DataBase.dll
+/home/dneit/devWeb/backendEventCraft/DataBase/bin/Debug/net8.0/DataBase.pdb
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.csproj.AssemblyReference.cache
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.GeneratedMSBuildEditorConfig.editorconfig
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.AssemblyInfoInputs.cache
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.AssemblyInfo.cs
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.csproj.CoreCompileInputs.cache
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.dll
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/refint/DataBase.dll
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.pdb
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/DataBase.genruntimeconfig.cache
+/home/dneit/devWeb/backendEventCraft/DataBase/obj/Debug/net8.0/ref/DataBase.dll

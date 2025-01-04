@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dneit/devWeb/backendEventCraft/Servicios/Servicios.csproj": {}
+  },
+  "projects": {
+    "/home/dneit/devWeb/backendEventCraft/CORE/CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dneit/devWeb/backendEventCraft/CORE/CORE.csproj",
+        "projectName": "CORE",
+        "projectPath": "/home/dneit/devWeb/backendEventCraft/CORE/CORE.csproj",
+        "packagesPath": "/home/dneit/.nuget/packages/",
+        "outputPath": "/home/dneit/devWeb/backendEventCraft/CORE/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dneit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dneit/devWeb/backendEventCraft/DataBase/DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dneit/devWeb/backendEventCraft/DataBase/DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "/home/dneit/devWeb/backendEventCraft/DataBase/DataBase.csproj",
+        "packagesPath": "/home/dneit/.nuget/packages/",
+        "outputPath": "/home/dneit/devWeb/backendEventCraft/DataBase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dneit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.22, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dneit/devWeb/backendEventCraft/Servicios/Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dneit/devWeb/backendEventCraft/Servicios/Servicios.csproj",
+        "projectName": "Servicios",
+        "projectPath": "/home/dneit/devWeb/backendEventCraft/Servicios/Servicios.csproj",
+        "packagesPath": "/home/dneit/.nuget/packages/",
+        "outputPath": "/home/dneit/devWeb/backendEventCraft/Servicios/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dneit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/dneit/devWeb/backendEventCraft/CORE/CORE.csproj": {
+                "projectPath": "/home/dneit/devWeb/backendEventCraft/CORE/CORE.csproj"
+              },
+              "/home/dneit/devWeb/backendEventCraft/DataBase/DataBase.csproj": {
+                "projectPath": "/home/dneit/devWeb/backendEventCraft/DataBase/DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.6.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

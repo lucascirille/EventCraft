@@ -1,0 +1,6 @@
+@EventCraft_HostAddress = http://localhost:5210
+
+GET {{EventCraft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
