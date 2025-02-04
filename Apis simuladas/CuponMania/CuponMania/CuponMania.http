@@ -1,0 +1,6 @@
+@CuponMania_HostAddress = http://localhost:5279
+
+GET {{CuponMania_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

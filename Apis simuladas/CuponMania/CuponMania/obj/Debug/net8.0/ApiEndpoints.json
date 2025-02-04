@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CuponMania.Controllers.CuponController",
+    "Method": "obtenerCupon",
+    "RelativePath": "api/Cupon/obtenerCupon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CORE.DTOs.RespuestaPrivada\u00601[[DataBase.Model.Cupon, DataBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
